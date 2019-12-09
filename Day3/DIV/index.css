@@ -1,0 +1,22 @@
+body{
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Bebas Neue', cursive;
+}
+.h1-3{
+    text-transform: uppercase;
+}
+#h1-2{
+    color: violet;
+}
+.div1{
+    text-align: center; 
+    background-color: blue; 
+    color: white;
+}
+.img1{
+    border-radius: 50%;
+}
+img{
+    height: 200px;
+
+}
